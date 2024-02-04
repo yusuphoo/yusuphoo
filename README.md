@@ -2,7 +2,7 @@
   <img width="100%"  height="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXH13YCmfVx07yX7JVff8bv-iJPGqVLmFdw&usqp=CAU" alt="Header Image">
 </p>
 
-<h1 align="center">Hi 👋, I'm Yusuph musa</h1>
+<h1 align="center">Hi 👋, I'm Yusuph Musah</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4E93Pp4OWuwmt0cbvqQoZdYpSuyr2DpSS84HRqHa-M7bDoEuqejm5b4dcY-dU7Ls4z2Y&usqp=CAU">
 
