@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yusuphoo/foundry-fund-me-f23.git](https://github.com/yusuphoo/foundry-fund-me-f23.git)
+- 👨‍💻 All of my projects are available at [https://github.com/yusuphoo/.git](https://github.com/yusuphoo/)
 
 - 💬 Ask me about **Web three**
 
